@@ -84,6 +84,15 @@ Aquí debemos de poner la descripción del proyecto que vamos a realizar
 
 ## 🚀 ¿Como usar?
 
+MONGO_URL= {link de MongoDb}
+
+GMAIL_ACCOUNT = {email}
+GMAIL_PASSWORD = {email Password autorization}
+
+PORT = {puerto : 300}
+
+SECRET = {bcrypt}
+
 🚨 Es necesario usar la versión de node **v18.13.0** así como crear un archivo **.env** en la carpeta **_/api_** con las variables de entorno necesarias, puedes abrir el archivo **.env.example** para ver un ejemplo con todas las variables de entorno.
 
 Primero clona el repositorio desde GitHub:
